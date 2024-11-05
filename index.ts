@@ -1,5 +1,5 @@
 function main (){
-console.log("Hola Mundo"
+console.log("Hola Mundo")
 }
 
 main();
